@@ -3,6 +3,10 @@
 Welcome to **Zaza Land**, an interactive, gamified portfolio website designed by **Aaron Simmons**. I built this using anti-gravity and gemini 3 pro flash. All of the icons and assets I designed myself by hand the old fashioned way. I get tired of how most portfolios look like fancy restaurant menus, so I figured I'd switch it up. 
 
 In this site you can explore my work by going to the 5 different project locations, collect cool gems to learn neat facts about me, and read some of my comics that are included as the backdrop for the site. 
+- **Explore** a vast interactive map.
+- **Collect Gems** to unlock secrets.
+- **Visit Project Locations** to learn about my work.
+- **Interact** using keyboard controls (Arrow Keys + E/R) or on-screen touch controls.
 
 ## 🎮 How to Play
 
@@ -31,4 +35,4 @@ All assets are custom-designed, including:
 - Detailed map backgrounds.
 
 ---
-*Created by Aaron Simmons all content copyright 2026*
+*Created by Aaron Simmons*
